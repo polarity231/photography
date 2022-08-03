@@ -1,0 +1,21 @@
+# Base configs
+baseurl: "https://aarontakespictures.com"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+
+# UI configs
+title: "Aaron Takes Pictures"
+author: "Aaron"
+header:
+ title: "Aaron"
+ subtitle: "Takes Pictures"
+footer:
+ name: "Hey there, I'm Aaron."
+ bio: "I'm an IT nerd and I take pictures for fun."
+social_urls:
+  # facebook: "#"
+  # twitter: "#"
+  instagram: "https://www.instagram.com/aarontakespicsok/"
+  # dribbble: "#"
+  # linkedin: "#"
+  # github: "#"
